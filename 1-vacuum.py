@@ -65,3 +65,17 @@ if __name__ == "__main__":
      vacuum = VacuumCleaner()  
 
      vacuum.run() 
+
+""" Starting vacuum cleaner simulation...
+-----------------------------
+Location A is clean
+Moving to location B
+Location B is dirty
+Cleaning...
+Location B is now clean
+-----------------------------
+Simulation complete. Both locations are clean.
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal """
